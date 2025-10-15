@@ -1,0 +1,4 @@
+F:/Anton/Uni/Semester 3/LinuxCourse/Lab2/CMakeFiles/operations.dir
+F:/Anton/Uni/Semester 3/LinuxCourse/Lab2/CMakeFiles/Lab2.dir
+F:/Anton/Uni/Semester 3/LinuxCourse/Lab2/CMakeFiles/edit_cache.dir
+F:/Anton/Uni/Semester 3/LinuxCourse/Lab2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v7
+2	80	7822640189141079	CMakeFiles/operations.dir/operations.cpp.obj	2725001dbf9fef5a
+81	200	7822640189928975	liboperations.a	825c5b9f38743dc7
+5	251	7822640189170997	CMakeFiles/Lab2.dir/main.cpp.obj	b3748cb76f2d3526
+255	431	7822640191668028	Lab2.exe	a93c24b4aa417485

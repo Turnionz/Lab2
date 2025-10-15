@@ -1,10 +1,10 @@
-#include operations.h
+#include "operations.h"
 
 float add(float a, float b) {
 	return a + b;
 };
 
-flaot subtract(float, float b) {
+float subtract(float a, float b) {
 	return a - b;
 };
 
